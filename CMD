@@ -512,5 +512,5 @@ drwxr-xr--. 2 aws devops 6 Jan 13 03:28 /opt/webdata
 [root@centos ~]#
 
 Shikhar Gupta@Lenovo-SG MINGW64 /e/vagrantvms/centos
-$
+
  
